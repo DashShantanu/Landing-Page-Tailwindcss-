@@ -1,0 +1,4 @@
+node_modules
+.vscode
+input.css
+tailwind.config.js
